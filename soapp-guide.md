@@ -245,5 +245,3 @@ Both CSV files are structured the same: each row is a measured plant and each co
 
 Morphology and Color CSV files also will include adjusted values if these features are used. When setting a scale or using automated scale features, the scaled values are included in the morphology CSV file. When a color standard is used, the standardized values are included in the color CSV file.
 
-
-
